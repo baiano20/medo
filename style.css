@@ -1,1 +1,28 @@
-#imal {width: 100%;}
+body {background-color:green;
+}
+h1 {font-size: 50px;
+    text-align: center;
+color: yellow;
+}
+h2 {font-size: 25px;
+    text-align: center;
+color: brown;
+}
+#imal {border: 10px;
+border-color: aqua;
+border-style: solid;
+width: 23%;
+margin-left: 35% ;
+}
+h3 {font-size: 25px;
+    text-align: center;
+color: red;
+border: 10px;
+}
+h4 {font-size: 25px;
+    text-align: center;
+color: red;
+}
+h5 {font-size: 25px;
+text-align: center;
+color: crimson;}
